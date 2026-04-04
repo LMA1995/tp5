@@ -3,7 +3,7 @@ Cuando el usuario adivine el numero mostrar un mensaje indicando al usuario que 
 let numeroMagico;
 const botonComenzar=document.getElementById('btn-iniciar');
 const formulario=document.getElementById('formulario')
-document.getElementById('btn-iniciar').addEventListener('click', () => {numeroMagico = Math.floor(Math.random() * 100) +1;
+document.getElementById('btn-iniciar').addEventListener('click', () => {numeroMagico = Math.floor(Math.random() * 10) +1;
     console.log(numeroMagico);
     formulario.classList.remove('d-none');
 });

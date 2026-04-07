@@ -13,3 +13,20 @@ main
     font-size: 30px;
     margin-left: 20px;
 }
+/*Estilos ejercicio 4*/
+#fecha
+{
+    background-color: darkred;
+    color: wheat;
+    font-size: 35px;
+    padding: 15px;
+     font-weight: bolder;
+}
+#reloj
+{
+    background-color: darkred;
+    color: wheat;
+    font-size: 35px;
+    padding: 15px;
+    font-weight: bolder;
+}

@@ -30,3 +30,25 @@ main
     padding: 15px;
     font-weight: bolder;
 }
+.temporizador-container {
+  background: #111;
+  border-radius: 20px;
+  padding: 20px;
+  display: inline-block;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.temporizador {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Courier New', monospace;
+  color: #00ffcc;
+  letter-spacing: 2px;
+  text-align: center;
+}
+.contenedorItems
+{
+    border-radius: 10px;
+    border: 2px solid white;
+    padding: 50px;
+}
